@@ -158,6 +158,3 @@ buffer.write(8)
 buffer.write(9)
 
 print(buffer.readAll())
-
-
-    
