@@ -78,7 +78,7 @@ class CircularBuffer:
             return 
 
         data = []
-                
+        
         if (len(self.data) < self.capacity):
             for value in self.data:
                 data.append(value)
